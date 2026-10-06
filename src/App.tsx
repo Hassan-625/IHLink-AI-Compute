@@ -1,4 +1,4 @@
-import {BusinessPortal,AcademyCertificateVerification} from '@/pages/business-centre/BusinessPortal';
+import {BusinessPortal} from '@/pages/business-centre/BusinessPortal';
 import {Navigate,Route,Routes} from 'react-router-dom';
 import {ProtectedRoute} from '@/components/ProtectedRoute';
 import {BusinessUnitPage,BusinessCustomerWorkspace} from '@/pages/business-centre/BusinessOperations';
